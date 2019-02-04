@@ -1,3 +1,3 @@
-N=2
-for i in range(2):
+N=5
+for i in range(5):
 	print('Hello')
