@@ -1,3 +1,3 @@
-N=5
-for i in range(5):
+N=int(input())
+for i in range(N):
 	print('Hello')
